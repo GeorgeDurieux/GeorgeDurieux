@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <a href="giorgosdurieux@gmail.com">
+  <a href="mailto:giorgosdurieux@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/george-durieux-2622a81b1/" target="_blank">
