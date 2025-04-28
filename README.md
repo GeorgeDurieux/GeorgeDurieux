@@ -9,9 +9,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+George+Durieux!;" />
 </h1>
 
-### A full-stack software engineer in the making, passionate about building beautiful, functional, and user-centric web applications.
-
+- ##  About Me
+- 🚀 A full-stack software engineer in the making, passionate about building beautiful, functional, and user-centric web applications.
 - 🌱 I’m currently learning Software Engineering in the bootcamp **[Coding Factory](https://codingfactory.aueb.gr/)** of Athens University of Economics and Business.
+- 💻 Backend and frontend developer
+- 📚 Always learning new technologies
+
   
 <br>
 
@@ -26,7 +29,7 @@
 
 <hr>
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Technologies
 
 <br>
 
@@ -35,7 +38,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,angular,jquery,express" /><br>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,bash,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=junit,jest" />
 </p>
 
 <hr>
+
