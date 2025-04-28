@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+George+Durieux!;" />
 </h1>
 
-- ##  About Me
+##  About Me
 - 🚀 A full-stack software engineer in the making, passionate about building beautiful, functional, and user-centric web applications.
 - 🌱 I’m currently learning Software Engineering in the bootcamp **[Coding Factory](https://codingfactory.aueb.gr/)** of Athens University of Economics and Business.
 - 💻 Backend and frontend developer
@@ -33,14 +33,29 @@
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,angular,jquery,express" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,bash,vscode,postman" />
-  <img src="https://skillicons.dev/icons?i=junit,jest" />
-</p>
+<div align="center">
 
+### Languages
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript" />
+
+### Java Ecosystem
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,angular,jquery" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+### DevOps / Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,bash,vscode,postman" />
+
+### Testing
+<img src="https://skillicons.dev/icons?i=jest" />
+
+</div>
 <hr>
 
